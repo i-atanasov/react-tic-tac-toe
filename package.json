@@ -1,6 +1,6 @@
 {
   "name": "my-news",
-  "homepage": "https://i-atanasov.github.io/react-tic-tac-toe/public",
+  "homepage": "https://i-atanasov.github.io/react-tic-tac-toe/public/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
